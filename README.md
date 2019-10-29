@@ -6,10 +6,7 @@ Before answering this question, let us know you how much favorable the world is.
 Petranek says, “Humans will survive no matter what happens on Earth. We will never be the last of our kind.” So, human are searching alternative ways to survive.
 
 MARS may be the alternative solution. Michio Kaku says “There is only one way for Humanity to survive. Go To Mars.”
-We are here TEAM RADIANT to work with MARS, the red planet near earth, which’s distance is 225 million km on average. For exploring mars we need to know about mars, it’s climate, it’s environment, it’s inconvenience and everything else. And we going to give you this opportunity through our 3D virtual model where you can act like an astronauts with the features pre-described by NASA like space suit, habitation facilities, landing zone, power zone etc.
-
-MARS- the Terrestrial type of planet is so small that if the Sun were as tall as a typical front door, Earth would be the size of a dime, and Mars would be about as big as an aspirin tablet. It completes the orbit around the sun in 687 days. This rocky planet having a solid surface has been altered by volcanos, impacts, winds, crustal movement and chemical reactions. This is a very tough place for life as it's thin atmosphere made up mostly of carbon dioxide, argon, nitrogen and a small amount of oxygen and water vapor.
-In this interesting project, the player will get the feel of landing on the real MARS, having a life there. By doing so, a lot of problems can be identified as surviving there as well as the solutions.
+We are here TEAM RADIANT to work with MARS, the red planet near earth, which’s distance is 225 million km on average. For exploring mars we need to know about mars, it’s climate, it’s environment, it’s inconvenience and everything else. And we going to give you this opportunity through our 3D virtual model where you can act like an astronauts with the features pre-described by NASA like space suit, Habitation Area, Research Zone, Primary Landing Zone, Power Zone etc and sky (after removed Orange filter).
 
 Services this project will provide:
 
@@ -29,7 +26,18 @@ Future Plan:
 
 So, it's high time, pack your bag and explore MARS through our project.
 
-YouTube : https://youtu.be/SALwZVs9Vbc
+Tools:
+
+Our project is implemented using:
+
+•	Unreal Engine
+•	Blender
+•	SketchUp
+•	CMake
+
+YouTube : https://youtu.be/SWt9Ga3v73I
+
+Slideshare : https://www.slideshare.net/AmanullahAsraf/journey-to-mars-presentation
 
 
 References:
@@ -40,14 +48,19 @@ Curiosity Rover : https://nasa3d.arc.nasa.gov/detail/mars-rover-curiosity
 
 Space Launch System (SLS) : https://nasa3d.arc.nasa.gov/detail/sls-block1-2017
 
-Habitation Zones : NASA Video-https://www.youtube.com/watch?v=94bIW7e1Otg&t=272s
+Habitation Zones : https://www.nasa.gov/feature/where-on-mars-might-humans-first-land
 
-Power Zones : NASA Video-https://www.youtube.com/watch?v=94bIW7e1Otg&t=272s
+Power Zones : https://www.nasa.gov/feature/where-on-mars-might-humans-first-land
 
-Research and Experimental Zones : NASA Video-https://www.youtube.com/watch?v=94bIW7e1Otg&t=272s
+Research and Experimental Zones : https://www.nasa.gov/feature/where-on-mars-might-humans-first-land
 
 Spacesuit : https://www.nasa.gov/feature/a-next-generation-spacesuit-for-the-artemis-generation-of-astronauts
+
+Sky : https://apod.nasa.gov/apod/ap061017.html
 
 Environmental setup : https://mars.nasa.gov
 
 
+
+
+![Screenshot (46)](https://user-images.githubusercontent.com/31788789/67772978-2d5a5580-fa85-11e9-9f80-36f2926019df.png)
